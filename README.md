@@ -1,3 +1,4 @@
+9p3dds-codex/set-up-backend-and-room/join-flow
 # Slights: A Game of Minor Inconveniences
 
 This is a small multiplayer card game built with Next.js and a custom Express
@@ -21,3 +22,6 @@ UPSTASH_REDIS_TOKEN=your-token
 ```
 
 The server runs at `http://localhost:3000`.
+
+readme
+ main
