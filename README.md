@@ -13,6 +13,13 @@ npm install
 npm run dev
 ```
 
+To build for production and run the server:
+
+```bash
+npm run build
+npm start
+```
+
 Create a `.env.local` file with your Upstash credentials (see `.env.example`):
 
 ```
