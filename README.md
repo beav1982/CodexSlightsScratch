@@ -20,4 +20,3 @@ UPSTASH_REDIS_URL=your-url
 UPSTASH_REDIS_TOKEN=your-token
 ```
 
-The server runs at `http://localhost:3000`.
