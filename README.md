@@ -13,6 +13,12 @@ npm install
 npm run dev
 ```
 
+Build the Next.js app for production:
+
+```bash
+npm run build
+```
+
 Create a `.env.local` file with your Upstash credentials (see `.env.example`):
 
 ```

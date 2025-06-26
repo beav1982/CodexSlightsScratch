@@ -11,6 +11,7 @@ vite.config.ts
 node_modules
 dist
 dist-ssr
+.next
 # Ignore local environment overrides
 *.local
 
