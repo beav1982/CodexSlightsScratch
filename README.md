@@ -19,8 +19,4 @@ Create a `.env.local` file with your Upstash credentials (see `.env.example`):
 UPSTASH_REDIS_URL=your-url
 UPSTASH_REDIS_TOKEN=your-token
 ```
-**Do not commit this file; it is ignored by `.gitignore`.**
-
-
-The server runs at `http://localhost:3000`.
 
