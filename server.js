@@ -1,3 +1,7 @@
+require('dotenv').config({ path: '.env.local' });
+console.log('REDIS URL:', process.env.UPSTASH_REDIS_REST_URL);
+console.log('REDIS TOKEN:', process.env.UPSTASH_REDIS_REST_TOKEN);
+
 const express = require('express');
 const next = require('next');
 const WebSocket = require('ws');

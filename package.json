@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "@upstash/redis": "^1.35.0",
+    "dotenv": "^16.5.0",
     "express": "^4.21.2",
     "next": "^15.3.4",
     "react": "^19.1.0",
