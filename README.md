@@ -1,4 +1,3 @@
-9p3dds-codex/set-up-backend-and-room/join-flow
 # Slights: A Game of Minor Inconveniences
 
 This is a small multiplayer card game built with Next.js and a custom Express
@@ -20,8 +19,8 @@ Create a `.env.local` file with your Upstash credentials (see `.env.example`):
 UPSTASH_REDIS_URL=your-url
 UPSTASH_REDIS_TOKEN=your-token
 ```
+**Do not commit this file; it is ignored by `.gitignore`.**
+
 
 The server runs at `http://localhost:3000`.
 
-readme
- main
