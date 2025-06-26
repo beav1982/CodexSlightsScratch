@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "@upstash/redis": "^1.35.0",
     "express": "^4.21.2",
