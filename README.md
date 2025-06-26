@@ -18,6 +18,6 @@ Create a `.env.local` file with your Upstash credentials (see `.env.example`):
 ```
 UPSTASH_REDIS_REST_URL=your-url
 UPSTASH_REDIS_REST_TOKEN=your-token
-```
+
 These are the standard variables used by Upstash's Node SDK for connecting
 to the REST API.
