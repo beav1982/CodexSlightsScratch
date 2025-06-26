@@ -20,3 +20,10 @@ UPSTASH_REDIS_REST_URL=your-url
 UPSTASH_REDIS_REST_TOKEN=your-token
 ```
 
+The Redis client at `src/redisClient.js` reads these variables via
+`Redis.fromEnv()`:
+
+```js
+const redis = require('./src/redisClient');
+```
+
